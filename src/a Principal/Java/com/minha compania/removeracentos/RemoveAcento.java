@@ -17,11 +17,10 @@ public class RemoveAcento {
         String frase = acento.nextLine();
         System.out.println(frase.replaceAll("[,.;:/~^´`!@#$%¨&*=+'|]", ""));
         /* o método replaceAll realliza a retirada de caracters especiais (acentos)*/
-  // /u*  aterado com suces
-       
-        }
+     }
   }
     
+
 
 
 
